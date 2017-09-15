@@ -9,7 +9,7 @@ public class Main extends JavaPlugin {
 
     private static Main main;
 
-    
+
 
 
     public static Main get() {
